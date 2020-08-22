@@ -1,0 +1,13 @@
+{
+    "_comment"          : "ALL Twitch info below",
+    "oauth"             : "Your Oauth from https://twitchapps.com/tokengen/ using your client ID",
+    "username"          : "Twitch App Name",
+    "clientID"          : "Twitch App Client ID",
+    "channels"          : "hazegrows",
+    
+    "_comment2"         : "ALL Discord info below",
+    "token"             : "Discord Bot Token Here",
+    "guildMirror"       : "726666980228071434",
+    "discordChannelID"  : "746436168249245817"
+    
+}
